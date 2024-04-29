@@ -2,7 +2,7 @@
 
 ### ❟❛❟邁爾❟❛❟ (Ξ｀Д´)◎)))Rasengan！！！
 
-Meu nome é _Gabriel rodrigues_
+### Meu nome é _Gabriel rodrigues_
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
